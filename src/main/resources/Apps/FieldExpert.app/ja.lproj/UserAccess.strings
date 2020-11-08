@@ -1,0 +1,138 @@
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "0vB-kh-ieU"; */
+"0vB-kh-ieU.normalTitle" = "Sign up";
+
+/* Class = "UILabel"; text = "Colt Online Sign-In"; ObjectID = "11N-yu-cRu"; */
+"11N-yu-cRu.text" = "Colt Online Sign-In";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "6Aw-RY-vGE"; */
+"6Aw-RY-vGE.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Privacy and cookie Policy"; ObjectID = "8E7-om-dfi"; */
+"8E7-om-dfi.normalTitle" = "Privacy and cookie Policy";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "8bd-g6-WbH"; */
+"8bd-g6-WbH.text" = "Username";
+
+/* Class = "UILabel"; text = "If you are having trouble to access the registered User ID."; ObjectID = "9Rg-OY-ioG"; */
+"9Rg-OY-ioG.text" = "If you are having trouble to access the registered User ID.";
+
+/* Class = "UITextField"; placeholder = "User ID"; ObjectID = "ARZ-Wc-Zph"; */
+"ARZ-Wc-Zph.placeholder" = "User ID";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "BAD-Xi-bJZ"; */
+"BAD-Xi-bJZ.normalTitle" = "Forgot Password?";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "DeI-eH-ICl"; */
+"DeI-eH-ICl.text" = "Forgot Password";
+
+/* Class = "UIButton"; normalTitle = "Send Verification Code"; ObjectID = "EZh-fr-fC6"; */
+"EZh-fr-fC6.normalTitle" = "Send Verification Code";
+
+/* Class = "UIButton"; normalTitle = "Terms of Use"; ObjectID = "FKd-Sc-3yX"; */
+"FKd-Sc-3yX.normalTitle" = "Terms of Use";
+
+/* Class = "UILabel"; text = "- Includes lowercase letter(a-z) and"; ObjectID = "FOp-DS-ZOF"; */
+"FOp-DS-ZOF.text" = "- Includes lowercase letter(a-z) and";
+
+/* Class = "UILabel"; text = "- Includes characters('@#$%^&*()_+)"; ObjectID = "FSZ-SQ-DmL"; */
+"FSZ-SQ-DmL.text" = "- Includes characters('@#$%^&*()_+)";
+
+/* Class = "UILabel"; text = "Tap Next to enable the FaceID, TouchID or PassCode Sign-In"; ObjectID = "H7f-hp-VXy"; */
+"H7f-hp-VXy.text" = "Tap Next to enable the FaceID, TouchID or PassCode Sign-In";
+
+/* Class = "UILabel"; text = "Success!"; ObjectID = "Jja-hY-Epv"; */
+"Jja-hY-Epv.text" = "Success!";
+
+/* Class = "UILabel"; text = "Terms of use"; ObjectID = "LXE-NW-k5T"; */
+"LXE-NW-k5T.text" = "Terms of use";
+
+/* Class = "UILabel"; text = "and to our"; ObjectID = "Q9J-EI-nVN"; */
+"Q9J-EI-nVN.text" = "and to our";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "QKg-WO-kB6"; */
+"QKg-WO-kB6.text" = "Forgot Password";
+
+/* Class = "UITextField"; placeholder = "User ID"; ObjectID = "RLf-3c-zkO"; */
+"RLf-3c-zkO.placeholder" = "User ID";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "TpX-ER-ARk"; */
+"TpX-ER-ARk.normalTitle" = "LOGIN";
+
+/* Class = "UILabel"; text = "Password has been changed successfully"; ObjectID = "UFt-rZ-eMZ"; */
+"UFt-rZ-eMZ.text" = "Password has been changed successfully";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "Vfu-2R-9VE"; */
+"Vfu-2R-9VE.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Note: Colt does not save any personal data. All Biometric/Passcode details are verified through device OS."; ObjectID = "WIO-yX-Wka"; */
+"WIO-yX-Wka.text" = "Note: Colt does not save any personal data. All Biometric/Passcode details are verified through device OS.";
+
+/* Class = "UIButton"; normalTitle = "Skip Button"; ObjectID = "YTq-1S-pDm"; */
+"YTq-1S-pDm.normalTitle" = "Skip Button";
+
+/* Class = "UILabel"; text = "- Includes number(0-9)"; ObjectID = "ao5-eB-tj0"; */
+"ao5-eB-tj0.text" = "- Includes number(0-9)";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "cqN-Iy-x6I"; */
+"cqN-Iy-x6I.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "(10:00)"; ObjectID = "dJv-sI-A4i"; */
+"dJv-sI-A4i.text" = "(10:00)";
+
+/* Class = "UILabel"; text = "By logging in you agree to the "; ObjectID = "dKw-ch-IjR"; */
+"dKw-ch-IjR.text" = "By logging in you agree to the ";
+
+/* Class = "UILabel"; text = "Biometric Usage Authentication"; ObjectID = "dYZ-WT-CgG"; */
+"dYZ-WT-CgG.text" = "Biometric Usage Authentication";
+
+/* Class = "UILabel"; text = "Don't have an account?"; ObjectID = "ftM-BG-i0R"; */
+"ftM-BG-i0R.text" = "Don't have an account?";
+
+/* Class = "UIButton"; normalTitle = "  Initiate Face Scan  "; ObjectID = "fzF-dG-dPu"; */
+"fzF-dG-dPu.normalTitle" = "  Initiate Face Scan  ";
+
+/* Class = "UITextField"; placeholder = "OTP"; ObjectID = "hPU-mo-g9E"; */
+"hPU-mo-g9E.placeholder" = "OTP";
+
+/* Class = "UILabel"; text = "We will send you a verification code to your email address. Please enter your user id below:"; ObjectID = "hmg-Fi-F0k"; */
+"hmg-Fi-F0k.text" = "We will send you a verification code to your email address. Please enter your user id below:";
+
+/* Class = "UILabel"; text = "- Includes uppercase letter(A-Z)"; ObjectID = "i5f-Xh-2uD"; */
+"i5f-Xh-2uD.text" = "- Includes uppercase letter(A-Z)";
+
+/* Class = "UIButton"; normalTitle = "  LogOut  "; ObjectID = "j1O-oh-ODo"; */
+"j1O-oh-ODo.normalTitle" = "  LogOut  ";
+
+/* Class = "UILabel"; text = "- The password must be atleast 8 characters"; ObjectID = "kVY-K2-Lih"; */
+"kVY-K2-Lih.text" = "- The password must be atleast 8 characters";
+
+/* Class = "UIButton"; normalTitle = "Resend OTP"; ObjectID = "kgM-Aa-wlO"; */
+"kgM-Aa-wlO.normalTitle" = "Resend OTP";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "lMO-rn-dGX"; */
+"lMO-rn-dGX.text" = "Password";
+
+/* Class = "UILabel"; text = "Proceed with your Touch ID"; ObjectID = "okz-0r-nCM"; */
+"okz-0r-nCM.text" = "Proceed with your Touch ID";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "stl-yh-XR0"; */
+"stl-yh-XR0.placeholder" = "New Password";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "tyS-w1-GEE"; */
+"tyS-w1-GEE.text" = "Forgot Password";
+
+/* Class = "UILabel"; text = "You may select to change your browser setting and restrict cookies."; ObjectID = "u1b-tY-1u8"; */
+"u1b-tY-1u8.text" = "You may select to change your browser setting and restrict cookies.";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "uHg-PM-PY4"; */
+"uHg-PM-PY4.placeholder" = "Confirm Password";
+
+/* Class = "UILabel"; text = "If you skip this option you will have to reinstall the app to enable it again."; ObjectID = "vJe-I4-yQO"; */
+"vJe-I4-yQO.text" = "If you skip this option you will have to reinstall the app to enable it again.";
+
+/* Class = "UILabel"; text = "Enter the OTP received on the registered Email id"; ObjectID = "vPZ-Dy-8ye"; */
+"vPZ-Dy-8ye.text" = "Enter the OTP received on the registered Email id";
+
+/* Class = "UIButton"; normalTitle = "Login Again"; ObjectID = "yFK-6N-3g0"; */
+"yFK-6N-3g0.normalTitle" = "Login Again";

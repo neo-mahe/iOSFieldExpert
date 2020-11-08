@@ -1,0 +1,168 @@
+
+/* Class = "UILabel"; text = "Configuration ID"; ObjectID = "0dG-9b-5tw"; */
+"0dG-9b-5tw.text" = "Configuration ID";
+
+/* Class = "UILabel"; text = "Implementor Mobile"; ObjectID = "11C-XP-7gZ"; */
+"11C-XP-7gZ.text" = "Implementor Mobile";
+
+/* Class = "UILabel"; text = "Implementor Email ID"; ObjectID = "3ib-ZV-ujl"; */
+"3ib-ZV-ujl.text" = "Implementor Email ID";
+
+/* Class = "UILabel"; text = "Site Address"; ObjectID = "4YG-UM-uTl"; */
+"4YG-UM-uTl.text" = "Site Address";
+
+/* Class = "UILabel"; text = "Category "; ObjectID = "5EJ-6g-VTE"; */
+"5EJ-6g-VTE.text" = "Category ";
+
+/* Class = "UILabel"; text = "NA"; ObjectID = "7sg-9j-v4U"; */
+"7sg-9j-v4U.text" = "NA";
+
+/* Class = "UILabel"; text = "NA"; ObjectID = "8F3-eO-KdF"; */
+"8F3-eO-KdF.text" = "NA";
+
+/* Class = "UILabel"; text = "NA"; ObjectID = "8st-cT-ZzE"; */
+"8st-cT-ZzE.text" = "NA";
+
+/* Class = "UILabel"; text = "Operational Categorization Tier 2"; ObjectID = "8v0-Vx-yD0"; */
+"8v0-Vx-yD0.text" = "Operational Categorization Tier 2";
+
+/* Class = "UILabel"; text = "Product Categorization Tier 3"; ObjectID = "9LM-EO-M4m"; */
+"9LM-EO-M4m.text" = "Product Categorization Tier 3";
+
+/* Class = "UILabel"; text = "NA"; ObjectID = "Bfr-H7-Og1"; */
+"Bfr-H7-Og1.text" = "NA";
+
+/* Class = "UILabel"; text = "Planned End"; ObjectID = "Dwp-Ez-6Do"; */
+"Dwp-Ez-6Do.text" = "Planned End";
+
+/* Class = "UILabel"; text = "NA"; ObjectID = "L81-Pe-kvh"; */
+"L81-Pe-kvh.text" = "NA";
+
+/* Class = "UILabel"; text = "NA"; ObjectID = "LKm-SS-CDV"; */
+"LKm-SS-CDV.text" = "NA";
+
+/* Class = "UILabel"; text = "NA"; ObjectID = "NU0-IR-ZCF"; */
+"NU0-IR-ZCF.text" = "NA";
+
+/* Class = "UILabel"; text = "NA"; ObjectID = "Nht-bq-qBk"; */
+"Nht-bq-qBk.text" = "NA";
+
+/* Class = "UILabel"; text = "Planned Work Detail"; ObjectID = "PIO-Rk-SbG"; */
+"PIO-Rk-SbG.text" = "Planned Work Detail";
+
+/* Class = "UILabel"; text = "NA"; ObjectID = "PXp-rX-dyH"; */
+"PXp-rX-dyH.text" = "NA";
+
+/* Class = "UILabel"; text = "NA"; ObjectID = "QS0-7T-Peg"; */
+"QS0-7T-Peg.text" = "NA";
+
+/* Class = "UILabel"; text = "ID"; ObjectID = "QcE-2T-vK2"; */
+"QcE-2T-vK2.text" = "ID";
+
+/* Class = "UILabel"; text = "Operational Categorization Tier 3"; ObjectID = "Qeh-xY-5a8"; */
+"Qeh-xY-5a8.text" = "Operational Categorization Tier 3";
+
+/* Class = "UILabel"; text = "Product Categorization Tier 2"; ObjectID = "Ube-rs-uHL"; */
+"Ube-rs-uHL.text" = "Product Categorization Tier 2";
+
+/* Class = "UILabel"; text = "Location Tier 2"; ObjectID = "Udp-8v-LVY"; */
+"Udp-8v-LVY.text" = "Location Tier 2";
+
+/* Class = "UILabel"; text = "NA"; ObjectID = "V8i-kW-2Sp"; */
+"V8i-kW-2Sp.text" = "NA";
+
+/* Class = "UILabel"; text = "Start Date "; ObjectID = "VM9-9X-xBA"; */
+"VM9-9X-xBA.text" = "Start Date ";
+
+/* Class = "UILabel"; text = "NA"; ObjectID = "Ywd-Ho-wor"; */
+"Ywd-Ho-wor.text" = "NA";
+
+/* Class = "UILabel"; text = "Change description"; ObjectID = "cw7-ga-eCp"; */
+"cw7-ga-eCp.text" = "Change description";
+
+/* Class = "UILabel"; text = "Operational Categorization Tier 1"; ObjectID = "cwI-47-CuY"; */
+"cwI-47-CuY.text" = "Operational Categorization Tier 1";
+
+/* Class = "UILabel"; text = "NA"; ObjectID = "eSf-hc-hh0"; */
+"eSf-hc-hh0.text" = "NA";
+
+/* Class = "UILabel"; text = "NA"; ObjectID = "eVw-da-uaK"; */
+"eVw-da-uaK.text" = "NA";
+
+/* Class = "UILabel"; text = "Standard Ref"; ObjectID = "hqw-dY-V7e"; */
+"hqw-dY-V7e.text" = "Standard Ref";
+
+/* Class = "UILabel"; text = "NA"; ObjectID = "kPg-2Z-03y"; */
+"kPg-2Z-03y.text" = "NA";
+
+/* Class = "UILabel"; text = "Requestor Email ID"; ObjectID = "lkW-zY-8Xq"; */
+"lkW-zY-8Xq.text" = "Requestor Email ID";
+
+/* Class = "UILabel"; text = "NA"; ObjectID = "lpr-q9-O60"; */
+"lpr-q9-O60.text" = "NA";
+
+/* Class = "UILabel"; text = "Configuration ID Type"; ObjectID = "mbK-ug-itu"; */
+"mbK-ug-itu.text" = "Configuration ID Type";
+
+/* Class = "UILabel"; text = "ID"; ObjectID = "oi3-lZ-zrr"; */
+"oi3-lZ-zrr.text" = "ID";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "ok1-Ec-BfK"; */
+"ok1-Ec-BfK.text" = "Category";
+
+/* Class = "UILabel"; text = "Description "; ObjectID = "osQ-aD-Bhj"; */
+"osQ-aD-Bhj.text" = "Description ";
+
+/* Class = "UILabel"; text = "NA"; ObjectID = "pKu-uk-aNa"; */
+"pKu-uk-aNa.text" = "NA";
+
+/* Class = "UILabel"; text = "Seibel Ref "; ObjectID = "pPO-fw-ugt"; */
+"pPO-fw-ugt.text" = "Seibel Ref ";
+
+/* Class = "UILabel"; text = "Order Number"; ObjectID = "pv0-un-xXX"; */
+"pv0-un-xXX.text" = "Order Number";
+
+/* Class = "UILabel"; text = "End Date "; ObjectID = "rMQ-dd-o38"; */
+"rMQ-dd-o38.text" = "End Date ";
+
+/* Class = "UILabel"; text = "Backout Start"; ObjectID = "sDr-TI-kEL"; */
+"sDr-TI-kEL.text" = "Backout Start";
+
+/* Class = "UILabel"; text = "NA"; ObjectID = "tKm-lP-hUl"; */
+"tKm-lP-hUl.text" = "NA";
+
+/* Class = "UILabel"; text = "Location Tier 1"; ObjectID = "ti8-fl-f9b"; */
+"ti8-fl-f9b.text" = "Location Tier 1";
+
+/* Class = "UILabel"; text = "NA"; ObjectID = "ueV-9C-R6W"; */
+"ueV-9C-R6W.text" = "NA";
+
+/* Class = "UILabel"; text = "Product Categorization Tier 1"; ObjectID = "w7C-9q-AOg"; */
+"w7C-9q-AOg.text" = "Product Categorization Tier 1";
+
+/* Class = "UILabel"; text = "NA"; ObjectID = "wZm-GY-uvG"; */
+"wZm-GY-uvG.text" = "NA";
+
+/* Class = "UILabel"; text = "NA"; ObjectID = "wxO-Q6-LEs"; */
+"wxO-Q6-LEs.text" = "NA";
+
+/* Class = "UILabel"; text = "NA"; ObjectID = "y0v-pe-cfa"; */
+"y0v-pe-cfa.text" = "NA";
+
+/* Class = "UILabel"; text = "Planned Start"; ObjectID = "y9K-v1-YAg"; */
+"y9K-v1-YAg.text" = "Planned Start";
+
+/* Class = "UILabel"; text = "NA"; ObjectID = "yWJ-0i-Rtw"; */
+"yWJ-0i-Rtw.text" = "NA";
+
+/* Class = "UITextView"; text = "NA"; ObjectID = "yhj-6S-o86"; */
+"yhj-6S-o86.text" = "NA";
+
+/* Class = "UILabel"; text = "NA"; ObjectID = "zI0-ko-yda"; */
+"zI0-ko-yda.text" = "NA";
+
+/* Class = "UILabel"; text = "Planned Work List"; ObjectID = "zVv-vw-r6w"; */
+"zVv-vw-r6w.text" = "Planned Work List";
+
+/* Class = "UILabel"; text = "NA"; ObjectID = "zyV-oH-k2D"; */
+"zyV-oH-k2D.text" = "NA";

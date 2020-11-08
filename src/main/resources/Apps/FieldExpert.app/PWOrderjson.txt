@@ -1,0 +1,1220 @@
+{
+  "featuresList": [
+    {
+      "fieldName": "Category",
+      "values": [
+        {
+          "categoryName": "Fibre works",
+          "activityDetails": [
+            {
+              "standardRefID": "SC/TX/93",
+              "changeDescription": "Fibre cut-in, fibre cut-out, fibre splice on live ring / cable - MSP devices, CPE",
+              "confIDType": "Box Number"
+            },
+            {
+              "standardRefID": "SC/TX/94",
+              "changeDescription": "Fibre cut-in, fibre cut-out, fibre splice on live ring / cable - SDH devices, CPE",
+              "confIDType": "Box Number"
+            },
+            {
+              "standardRefID": "SC/TX/95",
+              "changeDescription": "Fibre cut-in, fibre cut-out, fibre splice on live ring / cable - WDM devices, CPE (Metro) - NSA",
+              "confIDType": "Box Number"
+            },
+            {
+              "standardRefID": "SC/ALL/96",
+              "changeDescription": "Insertion of new manhole in existing duct",
+              "confIDType": "Box Number"
+            }
+          ]
+        },
+        {
+          "categoryName": "Installation & Service Testing",
+          "activityDetails": [
+            {
+              "standardRefID": "SC/TX/77",
+              "changeDescription": "GS Network customer private - Any Cards",
+              "confIDType": "Device ID"
+            },
+            {
+              "standardRefID": "SC/TX/79",
+              "changeDescription": "Customer ADM – Cutting in to a live ring - new Lucent SDH or install AMU card",
+              "confIDType": "Device ID"
+            },
+            {
+              "standardRefID": "SC/TX/80",
+              "changeDescription": "Customer ADM – Cutting in to a live ring - Atrica  mux or Install 2nd traffic module",
+              "confIDType": "Device ID"
+            },
+            {
+              "standardRefID": "SC/TX/81",
+              "changeDescription": "Customer ADM – Cutting in to a live ring - Accedian mux",
+              "confIDType": "Device ID"
+            }
+          ]
+        },
+        {
+          "categoryName": "IP Configuration",
+          "activityDetails": [
+            {
+              "standardRefID": "SC/IP/101",
+              "changeDescription": "Layer 3 IP Config-BGP config of IP Access for TRANSIT/No colt CPE - Putty - Single Service",
+              "confIDType": "Device ID(SAR ID)"
+            },
+            {
+              "standardRefID": "SC/IP/102",
+              "changeDescription": "Layer 3 IP Config-BGP config of IP Access for Man-in-middle - Putty - Mutiple Service",
+              "confIDType": "Device ID"
+            }
+          ]
+        },
+        {
+          "categoryName": "Node works",
+          "activityDetails": [
+            {
+              "standardRefID": "SC/TX/76",
+              "changeDescription": "PO Cyan - PSW card",
+              "confIDType": "Device ID"
+            },
+            {
+              "standardRefID": "SC/TX/78",
+              "changeDescription": "Infinera LDN - Insert/ Remove any Cards",
+              "confIDType": "Device ID"
+            },
+            {
+              "standardRefID": "SC/TX/82",
+              "changeDescription": "Node - MSP Atrica card insertions",
+              "confIDType": "Device ID"
+            },
+            {
+              "standardRefID": "SC/TX/83",
+              "changeDescription": "Node - MSP Atrica  SFP insertions",
+              "confIDType": "Device ID"
+            },
+            {
+              "standardRefID": "SC/TX/84",
+              "changeDescription": "Node - Infinera - New TAM / TIM / TOM Installs",
+              "confIDType": "Device ID"
+            },
+            {
+              "standardRefID": "SC/IP/85",
+              "changeDescription": "Node - Cisco routers card installs",
+              "confIDType": "Device ID"
+            },
+            {
+              "standardRefID": "SC/ALL/86",
+              "changeDescription": "Decommissioned Equipment uninstallation in nodes",
+              "confIDType": "Device ID"
+            },
+            {
+              "standardRefID": "SC/TX/87",
+              "changeDescription": "Cabling/removal of cabling to live equipment in nodes – IQ Net 6500",
+              "confIDType": "Device ID"
+            },
+            {
+              "standardRefID": "SC/TX/88",
+              "changeDescription": "Cabling/removal of cabling to live equipment in nodes – WDM Nortel LDN",
+              "confIDType": "Device ID"
+            },
+            {
+              "standardRefID": "SC/TX/89",
+              "changeDescription": "Cabling/removal of cabling to live equipment in nodes – ADVA FSP3000",
+              "confIDType": "Device ID"
+            },
+            {
+              "standardRefID": "SC/TX/90",
+              "changeDescription": "Cabling/removal of cabling to live equipment in nodes – Infinera",
+              "confIDType": "Device ID"
+            },
+            {
+              "standardRefID": "SC/TX/91",
+              "changeDescription": "Cabling/removal of cabling to live equipment in nodes – Atrica",
+              "confIDType": "Device ID"
+            },
+            {
+              "standardRefID": "SC/TX/92",
+              "changeDescription": "Jumpering/removal of jumpering in DDF's, ODF's, RDF's",
+              "confIDType": "Device ID"
+            }
+          ]
+        },
+        {
+          "categoryName": "Node works, Installation & Service Testing",
+          "activityDetails": [
+            {
+              "standardRefID": "SC/TX/73",
+              "changeDescription": "IQ Net 6500 - New card in live mux, EXCLUDING OTR/ MOTR and CXN",
+              "confIDType": "Device ID"
+            },
+            {
+              "standardRefID": "SC/TX/75",
+              "changeDescription": "IQ Net 6500 CIENA - Insert/Remove OTR/MOTR cards in existing chassis, configuration and run optical patchcords to CCMD ports",
+              "confIDType": "Device ID"
+            },
+            {
+              "standardRefID": "SC/ALL/97",
+              "changeDescription": "Power cabling or insertion of new power modules or batteries if cabinet contains Core Equipment  - includes both providing power for both core equipment & all other equipment (e.g. ADM, ISG, Cisco Routers)",
+              "confIDType": "Cabinet ID/ Rack ID"
+            }
+          ]
+        },
+        {
+          "categoryName": "Service Delivery",
+          "activityDetails": [
+            {
+              "standardRefID": "SC/VO/122",
+              "changeDescription": "Service Activation & Testing-MOD Config in EPN - Any System - Multiple Service",
+              "confIDType": "Circuit ID"
+            }
+          ]
+        },
+        {
+          "categoryName": "Voice Configuration",
+          "activityDetails": [
+            {
+              "standardRefID": "SC/VO/109",
+              "changeDescription": "SIP and CVOIP-Modification Configuration(Colt Host Euipment Range) - PSX/GSX/IPSA/SAR",
+              "confIDType": "Device ID"
+            },
+            {
+              "standardRefID": "SC/VO/112",
+              "changeDescription": "SIP and CVOIP-Deletion of Configuration over dedicated connection (EPN, VPN, NNI) where MAS switch reconfigured",
+              "confIDType": "Circuit ID"
+            },
+            {
+              "standardRefID": "SC/VO/113",
+              "changeDescription": "Voiceprovisioning / routing - Number routing change",
+              "confIDType": "Circuit ID"
+            },
+            {
+              "standardRefID": "SC/VO/118",
+              "changeDescription": "Voice-Deletion of Configuration(IP Voiceline, BAP, Voiceline)-APT/GSX/PSX/SBC/SAR/EWSD/DMS",
+              "confIDType": "Circuit ID"
+            },
+            {
+              "standardRefID": "SC/VO/121",
+              "changeDescription": "IN-Complex Routing Configuration  - CWI - Existing numbers",
+              "confIDType": "Circuit ID"
+            }
+          ]
+        }
+      ],
+      "mandatory": true
+    }
+  ],
+  "operationalCateg": [
+    {
+      "tierFirstName": "Commission",
+      "tierFirstValues": [
+        {
+          "tierSecondName": "Building Management System",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Electrical"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Cable",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Electrical,Optical"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Card",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Hardware"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Cooling System",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Electrical"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Device",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Hardware"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Logical Link",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "N/A"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Physical Link",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Electrical,Optical,Optical and Electrical"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Power System",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Electrical"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Rack",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Hardware"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Shelf",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Hardware"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Shelf-Sub Rack",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Hardware"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tierFirstName": "Configuration",
+      "tierFirstValues": [
+        {
+          "tierSecondName": "Client-side",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Hardware"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Core Routing Change",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Hardware"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Device",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Hardware"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Firmware Upgrade",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Hardware"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Node Addition",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Hardware"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Node Removal",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Hardware"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Port disablement",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Hardware"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Port enablement",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Hardware"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Provider-side",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Hardware"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Repair Client-side",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Hardware"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Repair Provider-side",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Hardware"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Service Activation",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "N/A"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Software Upgrade",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Hardware"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tierFirstName": "Core Market Data Application",
+      "tierFirstValues": [
+        {
+          "tierSecondName": "Enhancement",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Software"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Repair",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Software"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tierFirstName": "Datacentre",
+      "tierFirstValues": [
+        {
+          "tierSecondName": "Power Activity",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "others"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tierFirstName": "Decommission",
+      "tierFirstValues": [
+        {
+          "tierSecondName": "Building Management System",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Electrical"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Cable De-installation",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Electrical"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Cable De-installation",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Electrical,Optical"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Card",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Hardware"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Cooling System",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Electrical"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Device",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Hardware"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Logical Link",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Link"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Physical Link",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Electrical,Electrical and Optical,Optical"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Power System",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Electrical"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Rack",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Hardware"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Shelf",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Hardware"
+            }
+          ]
+        },
+        {
+          "tierSecondName": "Shelf-Sub Rack",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "Hardware"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tierFirstName": "Improve",
+      "tierFirstValues": [
+        {
+          "tierSecondName": "Resilency",
+          "tierSecondValues": [
+            {
+              "tierThreeNames": "others"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tierFirstName": "Infrastructure",
+      "tierFirstValues": [
+        {
+          "tierSecondName": "Insert Card / Module",
+          "tierSecondValues": "Hardware"
+        },
+        {
+          "tierSecondName": "Install Client Hardware",
+          "tierSecondValues": "Hardware"
+        },
+        {
+          "tierSecondName": "Install Core MD Application",
+          "tierSecondValues": "Hardware"
+        },
+        {
+          "tierSecondName": "Install core network device",
+          "tierSecondValues": "Hardware"
+        },
+        {
+          "tierSecondName": "Install new Patch Panel",
+          "tierSecondValues": "Hardware"
+        },
+        {
+          "tierSecondName": "New rack power feed",
+          "tierSecondValues": "Hardware"
+        },
+        {
+          "tierSecondName": "PDU Replacement",
+          "tierSecondValues": "Hardware"
+        },
+        {
+          "tierSecondName": "PSU Replacement",
+          "tierSecondValues": "Hardware"
+        },
+        {
+          "tierSecondName": "Physical Link",
+          "tierSecondValues": "Electrical/optical Patch,Electrical/optical XCN"
+        },
+        {
+          "tierSecondName": "Power-cycling",
+          "tierSecondValues": "Hardware"
+        },
+        {
+          "tierSecondName": "Remove Client Hardware",
+          "tierSecondValues": "Hardware"
+        },
+        {
+          "tierSecondName": "Remove Core MD Application",
+          "tierSecondValues": "Hardware"
+        },
+        {
+          "tierSecondName": "Remove core network device",
+          "tierSecondValues": "Hardware"
+        },
+        {
+          "tierSecondName": "SFP Insert",
+          "tierSecondValues": "Hardware"
+        },
+        {
+          "tierSecondName": "SFP Removal",
+          "tierSecondValues": "Hardware"
+        },
+        {
+          "tierSecondName": "SFP Reseat",
+          "tierSecondValues": "Hardware"
+        },
+        {
+          "tierSecondName": "Visual inspection",
+          "tierSecondValues": "Rack"
+        }
+      ]
+    },
+    {
+      "tierFirstName": "Optimise",
+      "tierFirstValues": [
+        {
+          "tierSecondName": "Bearer",
+          "tierSecondValues": "N/A"
+        },
+        {
+          "tierSecondName": "Circuits",
+          "tierSecondValues": "N/A"
+        },
+        {
+          "tierSecondName": "Ports",
+          "tierSecondValues": "N/A"
+        },
+        {
+          "tierSecondName": "Routing",
+          "tierSecondValues": "N/A"
+        }
+      ]
+    },
+    {
+      "tierFirstName": "Power Down",
+      "tierFirstValues": [
+        {
+          "tierSecondName": "Activity",
+          "tierSecondValues": "N/A"
+        }
+      ]
+    },
+    {
+      "tierFirstName": "Power System",
+      "tierFirstValues": [
+        {
+          "tierSecondName": "Distribution Panels",
+          "tierSecondValues": "N/A"
+        },
+        {
+          "tierSecondName": "Rectifiers",
+          "tierSecondValues": "AC Panel,Add Capacity"
+        },
+        {
+          "tierSecondName": "Transformers",
+          "tierSecondValues": "N/A"
+        },
+        {
+          "tierSecondName": "Transformers & Distribution pa",
+          "tierSecondValues": "N/A"
+        }
+      ]
+    },
+    {
+      "tierFirstName": "Reload",
+      "tierFirstValues": [
+        {
+          "tierSecondName": "Application",
+          "tierSecondValues": "Software"
+        },
+        {
+          "tierSecondName": "Device",
+          "tierSecondValues": "Hardware"
+        }
+      ]
+    },
+    {
+      "tierFirstName": "Replace",
+      "tierFirstValues": [
+        {
+          "tierSecondName": "Building Management System",
+          "tierSecondValues": "Electrical"
+        },
+        {
+          "tierSecondName": "Cable",
+          "tierSecondValues": "Electrical,Optical"
+        },
+        {
+          "tierSecondName": "Card",
+          "tierSecondValues": "Hardware"
+        },
+        {
+          "tierSecondName": "Cooling System",
+          "tierSecondValues": "Electrical"
+        },
+        {
+          "tierSecondName": "Device",
+          "tierSecondValues": "Hardware"
+        },
+        {
+          "tierSecondName": "Power System",
+          "tierSecondValues": "Electrical"
+        },
+        {
+          "tierSecondName": "Rack",
+          "tierSecondValues": "Hardware"
+        },
+        {
+          "tierSecondName": "Shelf",
+          "tierSecondValues": "Hardware"
+        },
+        {
+          "tierSecondName": "Shelf-Sub Rack",
+          "tierSecondValues": "Hardware"
+        }
+      ]
+    },
+    {
+      "tierFirstName": "Shift",
+      "tierFirstValues": [
+        {
+          "tierSecondName": "Bearer",
+          "tierSecondValues": "N/A"
+        },
+        {
+          "tierSecondName": "Cable",
+          "tierSecondValues": "Electrical,Optical"
+        },
+        {
+          "tierSecondName": "Circuits",
+          "tierSecondValues": "n/A"
+        },
+        {
+          "tierSecondName": "Dark Fibre",
+          "tierSecondValues": "n/A"
+        },
+        {
+          "tierSecondName": "Port",
+          "tierSecondValues": "n/A"
+        }
+      ]
+    },
+    {
+      "tierFirstName": "Third-party",
+      "tierFirstValues": [
+        {
+          "tierSecondName": "Data Centre",
+          "tierSecondValues": "Rack"
+        },
+        {
+          "tierSecondName": "Market Mandatory",
+          "tierSecondValues": "Rack &/or External connection"
+        },
+        {
+          "tierSecondName": "Network",
+          "tierSecondValues": "External connection"
+        },
+        {
+          "tierSecondName": "Other",
+          "tierSecondValues": "Rack &/or External connection"
+        }
+      ]
+    },
+    {
+      "tierFirstName": "Troubleshoot",
+      "tierFirstValues": [
+        {
+          "tierSecondName": "Circuit",
+          "tierSecondValues": "N/A"
+        },
+        {
+          "tierSecondName": "Clear",
+          "tierSecondValues": "Alarms"
+        },
+        {
+          "tierSecondName": "Device",
+          "tierSecondValues": "Hardware"
+        },
+        {
+          "tierSecondName": "Software",
+          "tierSecondValues": "Application"
+        }
+      ]
+    },
+    {
+      "tierFirstName": "Upgrade",
+      "tierFirstValues": [
+        {
+          "tierSecondName": "Building Management System",
+          "tierSecondValues": "Electrical"
+        },
+        {
+          "tierSecondName": "Cable",
+          "tierSecondValues": "Electrical,Optical"
+        },
+        {
+          "tierSecondName": "Card",
+          "tierSecondValues": "Hardware"
+        },
+        {
+          "tierSecondName": "Cooling System",
+          "tierSecondValues": "Electrical"
+        },
+        {
+          "tierSecondName": "Device",
+          "tierSecondValues": "Hardware"
+        },
+        {
+          "tierSecondName": "Logical Link",
+          "tierSecondValues": "N/A"
+        },
+        {
+          "tierSecondName": "Physical Link",
+          "tierSecondValues": "Electrical,Electrical and Optical,Optical"
+        },
+        {
+          "tierSecondName": "Power System",
+          "tierSecondValues": "Electrical"
+        },
+        {
+          "tierSecondName": "Rack",
+          "tierSecondValues": "Hardware"
+        },
+        {
+          "tierSecondName": "Shelf",
+          "tierSecondValues": "Hardware"
+        },
+        {
+          "tierSecondName": "Shelf-Sub Rack",
+          "tierSecondValues": "Hardware"
+        }
+      ]
+    }
+  ],
+  "productCateg": [
+    {
+      "tierFirstName": "ATM/DSL",
+      "tierFirstValues": [
+        {
+          "tierSecondName": "Access",
+          "tierSecondValues": "AMGW,CPE,DSLAM,Monitoring,Switch"
+        },
+        {
+          "tierSecondName": "CABLE",
+          "tierSecondValues": "Internal"
+        },
+        {
+          "tierSecondName": "Tool",
+          "tierSecondValues": "Diagnostic,Monitoring,Provisioning"
+        }
+      ]
+    },
+    {
+      "tierFirstName": "Civil",
+      "tierFirstValues": [
+        {
+          "tierSecondName": "External",
+          "tierSecondValues": "Civil Authority"
+        },
+        {
+          "tierSecondName": "Internal",
+          "tierSecondValues": "Fibre"
+        }
+      ]
+    },
+    {
+      "tierFirstName": "DCN",
+      "tierFirstValues": [
+        {
+          "tierSecondName": "Access",
+          "tierSecondValues": "Multi (Router-Switch),Router,Router_OSI,Switch"
+        },
+        {
+          "tierSecondName": "Core",
+          "tierSecondValues": "Multi (Router-Switch),Router,Router_OSI,Switch"
+        },
+        {
+          "tierSecondName": "Multi (Core-Access)",
+          "tierSecondValues": "Multi (Router-Switch),Router,Router_OSI,Switch"
+        },
+        {
+          "tierSecondName": "Tool",
+          "tierSecondValues": "Diagnostic,Monitoring,Provisioning"
+        }
+      ]
+    },
+    {
+      "tierFirstName": "FIBRE",
+      "tierFirstValues": [
+        {
+          "tierSecondName": "LDN",
+          "tierSecondValues": "External"
+        },
+        {
+          "tierSecondName": "METRO",
+          "tierSecondValues": "External"
+        }
+      ]
+    },
+    {
+      "tierFirstName": "IP/DATA",
+      "tierFirstValues": [
+        {
+          "tierSecondName": "Access",
+          "tierSecondValues": "Multi (Router-Switch),RouterSwitch"
+        },
+        {
+          "tierSecondName": "Access (VoIP)",
+          "tierSecondValues": "N/A"
+        },
+        {
+          "tierSecondName": "CABLE",
+          "tierSecondValues": "Internal"
+        },
+        {
+          "tierSecondName": "Core",
+          "tierSecondValues": "Multi (Router-Switch),Router,Switch"
+        },
+        {
+          "tierSecondName": "IAR",
+          "tierSecondValues": "N/A"
+        },
+        {
+          "tierSecondName": "IAS",
+          "tierSecondValues": "Router,Switch"
+        },
+        {
+          "tierSecondName": "IQNet Packet-EU",
+          "tierSecondValues": "Access,Aggregation,Cable,Core,Multi (Core-Access),Multi (Core-SAR),SAR"
+        },
+        {
+          "tierSecondName": "IQNetPacket-Asia Global Int",
+          "tierSecondValues": "Access,Aggregation,Cable,Core,Multi (Core-Access),Multi (Core-SAR),SAR"
+        },
+        {
+          "tierSecondName": "Multi (Core-Access)",
+          "tierSecondValues": "Multi (Router-Switch),Router,Switch"
+        },
+        {
+          "tierSecondName": "Multi (Core-Peering)",
+          "tierSecondValues": "Router"
+        },
+        {
+          "tierSecondName": "Multi (Core-SAR)",
+          "tierSecondValues": "Multi (Router-Switch),Router,Switch"
+        },
+        {
+          "tierSecondName": "Multi (Switch + Router)",
+          "tierSecondValues": "Multi (Switch + Router)"
+        },
+        {
+          "tierSecondName": "Peering",
+          "tierSecondValues": "Router"
+        },
+        {
+          "tierSecondName": "SAR",
+          "tierSecondValues": "Router"
+        },
+        {
+          "tierSecondName": "SAR/AR",
+          "tierSecondValues": "Switch"
+        },
+        {
+          "tierSecondName": "Tool",
+          "tierSecondValues": "Diagnostic,Monitoring,Provisioning"
+        }
+      ]
+    },
+    {
+      "tierFirstName": "Infrastructure",
+      "tierFirstValues": [
+        {
+          "tierSecondName": "Site",
+          "tierSecondValues": "Building Management System,Cooling,Power"
+        }
+      ]
+    },
+    {
+      "tierFirstName": "OSS",
+      "tierFirstValues": [
+        {
+          "tierSecondName": "Application",
+          "tierSecondValues": "APT,ASPEN,Alcatel 5620,Alcatel AWS,Alcatel SAM,Brix,Cisco ACS (TACACS),CiscoWorks,Colt Total,Container servers (CIN),DCN IP sniffers,Data Retention,EMC Clarion,EfficientIP,Hobbit,IMS,Infovista,LDAP,Lucent ITM-SC,Mail (Postfix),NMC Web Server,NMS Jumpservers,NTP Services,News (Highwinds),Nominum ANS,Nominum CNS,Nominum FMC,Oracle IPSA,RADIUS (Radiator),SMARTS ACM,SMARTS Application,SMARTS Platform,SUN SAN 6920,Syslog,UAPROV/Portal,Veritas High Availability,Veritas Netbackup"
+        },
+        {
+          "tierSecondName": "Database",
+          "tierSecondValues": "MySQL,Oracle"
+        },
+        {
+          "tierSecondName": "Hardware",
+          "tierSecondValues": "Appliance,EMC,HP,IBM,Microsoft,Sun"
+        },
+        {
+          "tierSecondName": "Operating System",
+          "tierSecondValues": "HP-UX,Linux,Solaris,Windows"
+        }
+      ]
+    },
+    {
+      "tierFirstName": "TX",
+      "tierFirstValues": [
+        {
+          "tierSecondName": "CABLE",
+          "tierSecondValues": "Internal"
+        },
+        {
+          "tierSecondName": "IQNet Optical-EU",
+          "tierSecondValues": "LDN-ALU DXC,LDN-Cable,LDN-DWDM,LDN-Fibre,LDN-OTN,LDN-RoAMD,LDN-WDM,Metro-CWDM,Metro-Cable,Metro-Ethernet Fibre,Metro-Ethernet MSP,Metro-Marconi,Metro-PDH,Metro-PMux,Metro-SXC"
+        },
+        {
+          "tierSecondName": "IQNetOptical-Asia Global Int",
+          "tierSecondValues": "LDN-ALU DXC,LDN-Cable,LDN-DWDM,LDN-Fibre,LDN-OTN,LDN-RoAMD,LDN-WDM,Metro-CWDM,Metro-Cable,Metro-Ethernet Fibre,Metro-Ethernet MSP,Metro-Marconi,Metro-PDH,Metro-PMux,Metro-SXC"
+        },
+        {
+          "tierSecondName": "LDN",
+          "tierSecondValues": "Combiner,DWDM,FIBRE,SDHMUX,Sync"
+        },
+        {
+          "tierSecondName": "Metro",
+          "tierSecondValues": "CWDM,DWDM,DXC,Ethernet,FIBRE,MSP,PMUX,SDHMUX,SDHMUX/DX,SXC,Sync,TMUX"
+        },
+        {
+          "tierSecondName": "OSS",
+          "tierSecondValues": "Application,Hardware,Operating System"
+        },
+        {
+          "tierSecondName": "Tool",
+          "tierSecondValues": "Diagnostic,Monitoring,Provisioning"
+        }
+      ]
+    },
+    {
+      "tierFirstName": "VOICE",
+      "tierFirstValues": [
+        {
+          "tierSecondName": "Access (TDM)",
+          "tierSecondValues": "DLU,LTG,V5"
+        },
+        {
+          "tierSecondName": "Access (VoIP)",
+          "tierSecondValues": "CPE"
+        },
+        {
+          "tierSecondName": "CABLE",
+          "tierSecondValues": "Internal"
+        },
+        {
+          "tierSecondName": "Core",
+          "tierSecondValues": "IN,IVR"
+        },
+        {
+          "tierSecondName": "Core (TDM)",
+          "tierSecondValues": "STP,Switch"
+        },
+        {
+          "tierSecondName": "Core (VoIP)",
+          "tierSecondValues": "IMS,PGW,SBC"
+        },
+        {
+          "tierSecondName": "Tool",
+          "tierSecondValues": "Diagnostic,Monitoring,Provisioning"
+        }
+      ]
+    }
+],
+"siebelLocations":[
+{
+"Countries": "Australia",
+"Cities": "Adelaide,Brisbane,Canberra,Gold Coast,Melbourne,Newcastle,Other,Perth,Sydney"
+},
+{
+"Countries": "Austria",
+"Cities": "Graz,Linz,Vienna,Wien"
+},
+{
+"Countries": "Belgium",
+"Cities": "Antwerp,Brussels,Gent,Other"
+},
+{
+"Countries": "Canada",
+"Cities": "Calgary,Edmonton,Mississauga,Montreal,North York,Ontario,Ottawa,Scarborough,Toronto,Vancouver,Winnipeg,other"
+},
+{
+"Countries": "Czech Republic",
+"Cities": "Brno,Liberec,Ostrava,Other,Plzeň,Prague"
+},
+{
+"Countries": "Denmark",
+"Cities": "Aalborgb,Aarhus,Copenhagen,Esbjerg,Odense,Other"
+},
+{
+"Countries": "Egypt",
+"Cities": "KOM HAMADA"
+},
+{
+"Countries": "Finland",
+"Cities": "Espoo,Helsinki,Other,Tampere"
+},
+{
+"Countries": "France",
+"Cities": "Bordeaux,Lyon,Malakoff,Marseille,Other,Paris"
+},
+{
+"Countries": "Germany",
+"Cities": "Berlin,Cologne,Dresden,Dusseldorf,Frankfurt,Hagen,Hamburg,Hanover,Heidelberg,Leipzig,Munich,Other,Stuttgart"
+},
+{
+"Countries": "Global",
+"Cities": "Benelux-Data Centre,CR Internal Development CSD,DE-Data Centre,ES-Data Centre,EU-Data Centre,FR-Data Centre"
+},
+{
+"Countries": "Hongkong",
+"Cities": "Kowloon,Sha Tin,Tai Po,Tsuen Wan,Tung Chung,other"
+},
+{
+"Countries": "Hungary",
+"Cities": "Budapest,Debrecen,Gyor,Miskolc,Other,Pecs,Szeged"
+},
+{
+"Countries": "Iceland",
+"Cities": "Akureyri,Hafnarfjorour,Keflavík,Kopavogur,Other,Reykjavík"
+},
+{
+"Countries": "India",
+"Cities": "Chennai,Delhi,Gurgaon,Mumbai,Other"
+},
+{
+"Countries": "Ireland",
+"Cities": "Bray,Cork,Dublin,Galway,Limerick,Other,Swords,Waterford"
+},
+{
+"Countries": "Italy",
+"Cities": "Florence,Milan,Other,Rome,Turin,Vatican City,Venice"
+},
+{
+"Countries": "Japan",
+"Cities": "Maruyama,Others,Tokyo"
+},
+{
+"Countries": "Luxembourg",
+"Cities": "Differdange,Esch-sur-Alzette,Luxembourg City,Other"
+},
+{
+"Countries": "Netherlands",
+"Cities": "Almere,Amsterdam,Breda,Eindhoven,Groningen,Other,Rotterdam,The Hague,Tilburg,Utrecht"
+},
+{
+"Countries": "North Korea",
+"Cities": ""
+},
+{
+"Countries": "Norway",
+"Cities": "Drammen,Fredrikstad,Oslo,Other,Stavanger,Trondheim"
+},
+{
+"Countries": "Other",
+"Cities": "Other"
+},
+{
+"Countries": "Portugal",
+"Cities": "Agualva-Cacem,Almada,Amadora,Coimbra,Fanchal,Lisbon,Porto"
+},
+{
+"Countries": "Romania",
+"Cities": "Bucharest,Cluj-Napoca,Constanta,Iasi,Other,Timisoara"
+},
+{
+"Countries": "Russia",
+"Cities": "Central,Far East,Moscow,Northwestern region,Other,Siberia,Ural,Volga"
+},
+{
+"Countries": "Singapore",
+"Cities": "Other,Singapore"
+},
+{
+"Countries": "Slovakia",
+"Cities": "Bratislava,Kosice,Nitra,Other,Presov,Zilina"
+},
+{
+"Countries": "South Korea",
+"Cities": "Incheon,Kwangju,Pusan,Seongnam,Taegu,Taejeon,Ulsan"
+},
+{
+"Countries": "Spain",
+"Cities": "Barcelona,Madrid,Málaga,Other,Sevilla,Valencia,Zaragoza"
+},
+{
+"Countries": "Sweeden",
+"Cities": "Gothenburg,Helsingborg,Lund,Malmo,Other,Stockholm,Uppsala,Västeras,Örebro,Östersund"
+},
+{
+"Countries": "Switzerland",
+"Cities": "Basel,Bern,Biel,Geneva,Lausanne,Lugano,Other,Sion,Zurich"
+},
+{
+"Countries": "USA",
+"Cities": "ALEX,Buffalo,California,Chicago,Dallas,Denver,Florida,Guam,Houston,Illinois,Los Angeles,Massachusetts,Miami,New Jersey,New York,Other,Philadelphia,San Antonio,San Diego,Tampa,Texas,Washington D.C."
+},
+{
+"Countries": "United Kingdom",
+"Cities": "Birmingham,Bradford,Gloucester,Leicester,London,Manchester,Nottingham,Other"
+}
+]
+}

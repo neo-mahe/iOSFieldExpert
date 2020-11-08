@@ -1,0 +1,171 @@
+
+/* Class = "UILabel"; text = "- Includes number(0-9)"; ObjectID = "04e-td-Wev"; */
+"04e-td-Wev.text" = "- Includes number(0-9)";
+
+/* Class = "UILabel"; text = "Password has been changed successfully"; ObjectID = "0pL-5t-iUR"; */
+"0pL-5t-iUR.text" = "Password has been changed successfully";
+
+/* Class = "UILabel"; text = "Version 1.0"; ObjectID = "1QD-sA-nxU"; */
+"1QD-sA-nxU.text" = "Version 1.0";
+
+/* Class = "UILabel"; text = "France"; ObjectID = "1Qw-6V-EY9"; */
+"1Qw-6V-EY9.text" = "France";
+
+/* Class = "UILabel"; text = "Incidents"; ObjectID = "1un-cP-PG9"; */
+"1un-cP-PG9.text" = "Incidents";
+
+/* Class = "UILabel"; text = "Colt Orgranisation"; ObjectID = "5w8-oe-ufO"; */
+"5w8-oe-ufO.text" = "Colt Orgranisation";
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "6DR-1H-jHD"; */
+"6DR-1H-jHD.text" = "Welcome";
+
+/* Class = "UILabel"; text = "View and track Colt Planned work"; ObjectID = "6z4-00-MYg"; */
+"6z4-00-MYg.text" = "View and track Colt Planned work";
+
+/* Class = "UIButton"; normalTitle = "Change Password"; ObjectID = "7sx-8l-wzm"; */
+"7sx-8l-wzm.normalTitle" = "Change Password";
+
+/* Class = "UILabel"; text = "Customer Number"; ObjectID = "9hQ-95-gdf"; */
+"9hQ-95-gdf.text" = "Customer Number";
+
+/* Class = "UILabel"; text = "- Includes uppercase letter(A-Z)"; ObjectID = "9xc-ds-bP3"; */
+"9xc-ds-bP3.text" = "- Includes uppercase letter(A-Z)";
+
+/* Class = "UILabel"; text = "Setting"; ObjectID = "AXQ-2O-h2Z"; */
+"AXQ-2O-h2Z.text" = "Setting";
+
+/* Class = "UILabel"; text = "John"; ObjectID = "AYH-Yg-mYb"; */
+"AYH-Yg-mYb.text" = "John";
+
+/* Class = "UILabel"; text = "- The password must be atleast 8 characters"; ObjectID = "AYp-Ig-JQV"; */
+"AYp-Ig-JQV.text" = "- The password must be atleast 8 characters";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "E5h-k2-9RP"; */
+"E5h-k2-9RP.text" = "Address";
+
+/* Class = "UILabel"; text = "View Planned Work"; ObjectID = "EF4-Gf-dV0"; */
+"EF4-Gf-dV0.text" = "View Planned Work";
+
+/* Class = "UITextField"; text = "tuntun.kumar@colt.net"; ObjectID = "GAj-Eq-1ek"; */
+"GAj-Eq-1ek.text" = "tuntun.kumar@colt.net";
+
+/* Class = "UILabel"; text = "Raise Work"; ObjectID = "HQb-F9-jcf"; */
+"HQb-F9-jcf.text" = "Raise Work";
+
+/* Class = "UILabel"; text = "82820"; ObjectID = "Idr-58-oaQ"; */
+"Idr-58-oaQ.text" = "82820";
+
+/* Class = "UILabel"; text = "Coltonline dcp1"; ObjectID = "Idv-sV-Nrj"; */
+"Idv-sV-Nrj.text" = "Coltonline dcp1";
+
+/* Class = "UILabel"; text = "Coming Soon.."; ObjectID = "IrQ-pk-J6Y"; */
+"IrQ-pk-J6Y.text" = "Coming Soon..";
+
+/* Class = "UILabel"; text = "Test City"; ObjectID = "Lbc-Sb-Zmo"; */
+"Lbc-Sb-Zmo.text" = "Test City";
+
+/* Class = "UILabel"; text = "Raise Colt Planned Work for Maintenance"; ObjectID = "Llu-yh-hub"; */
+"Llu-yh-hub.text" = "Raise Colt Planned Work for Maintenance";
+
+/* Class = "UILabel"; text = "- Includes characters('@#$%^&*()_+)"; ObjectID = "LyQ-Bf-vpH"; */
+"LyQ-Bf-vpH.text" = "- Includes characters('@#$%^&*()_+)";
+
+/* Class = "UILabel"; text = "Account Executive"; ObjectID = "MJC-71-zII"; */
+"MJC-71-zII.text" = "Account Executive";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NTQ-EA-BHb"; */
+"NTQ-EA-BHb.text" = "Label";
+
+/* Class = "UILabel"; text = "Version 1.0"; ObjectID = "Qoc-hj-OZO"; */
+"Qoc-hj-OZO.text" = "Version 1.0";
+
+/* Class = "UILabel"; text = "Planned Work"; ObjectID = "RNy-6u-iQ8"; */
+"RNy-6u-iQ8.text" = "Planned Work";
+
+/* Class = "UIButton"; normalTitle = "Login Again"; ObjectID = "TMG-oN-A8c"; */
+"TMG-oN-A8c.normalTitle" = "Login Again";
+
+/* Class = "UILabel"; text = "Success!"; ObjectID = "X4g-Xf-6w6"; */
+"X4g-Xf-6w6.text" = "Success!";
+
+/* Class = "UILabel"; text = "View Saved Templates"; ObjectID = "Y3y-eG-0NJ"; */
+"Y3y-eG-0NJ.text" = "View Saved Templates";
+
+/* Class = "UILabel"; text = "Refer the saved planned work templates"; ObjectID = "Za4-H6-leR"; */
+"Za4-H6-leR.text" = "Refer the saved planned work templates";
+
+/* Class = "UILabel"; text = "Customer Name"; ObjectID = "ZbV-lq-KcW"; */
+"ZbV-lq-KcW.text" = "Customer Name";
+
+/* Class = "UISearchBar"; placeholder = "Search here.."; ObjectID = "ZqY-ET-wjE"; */
+"ZqY-ET-wjE.placeholder" = "Search here..";
+
+/* Class = "UILabel"; text = " Profile"; ObjectID = "a5y-mY-4PO"; */
+"a5y-mY-4PO.text" = " Profile";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "blV-Zu-fqu"; */
+"blV-Zu-fqu.text" = "Home";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cFL-G6-sL7"; */
+"cFL-G6-sL7.text" = "Label";
+
+/* Class = "UILabel"; text = "Update Incidents"; ObjectID = "ewk-PA-8OJ"; */
+"ewk-PA-8OJ.text" = "Update Incidents";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hPn-4m-nUc"; */
+"hPn-4m-nUc.text" = "Label";
+
+/* Class = "UITextField"; text = "English"; ObjectID = "hSj-fV-GSK"; */
+"hSj-fV-GSK.text" = "English";
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "iBQ-Nq-Qyy"; */
+"iBQ-Nq-Qyy.text" = "Welcome";
+
+/* Class = "UILabel"; text = "No Result found"; ObjectID = "jmO-w4-mn1"; */
+"jmO-w4-mn1.text" = "No Result found";
+
+/* Class = "UILabel"; text = "Language Setting"; ObjectID = "kgP-hn-Dgm"; */
+"kgP-hn-Dgm.text" = "Language Setting";
+
+/* Class = "UILabel"; text = "Admin"; ObjectID = "khR-Xh-yJF"; */
+"khR-Xh-yJF.text" = "Admin";
+
+/* Class = "UILabel"; text = "Customer Support"; ObjectID = "muu-a1-ye1"; */
+"muu-a1-ye1.text" = "Customer Support";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "pL5-VW-pvG"; */
+"pL5-VW-pvG.text" = "Forgot Password";
+
+/* Class = "UILabel"; text = "- Includes lowercase letter(a-z) and"; ObjectID = "pWc-Sb-zCE"; */
+"pWc-Sb-zCE.text" = "- Includes lowercase letter(a-z) and";
+
+/* Class = "UITextField"; text = "Mr."; ObjectID = "qHI-96-DXE"; */
+"qHI-96-DXE.text" = "Mr.";
+
+/* Class = "UILabel"; text = "John"; ObjectID = "rnG-Fx-5Y4"; */
+"rnG-Fx-5Y4.text" = "John";
+
+/* Class = "UILabel"; text = "Update Incidents"; ObjectID = "rna-nf-onZ"; */
+"rna-nf-onZ.text" = "Update Incidents";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "tiF-1J-jQe"; */
+"tiF-1J-jQe.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Please should be as follows:+prefix, followed by the country code,followed by the phone number. eg. for UK number 02070393900 enter +442070393900 "; ObjectID = "u6Z-3F-A0N"; */
+"u6Z-3F-A0N.text" = "Please should be as follows:+prefix, followed by the country code,followed by the phone number. eg. for UK number 02070393900 enter +442070393900 ";
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "u7u-p0-Spa"; */
+"u7u-p0-Spa.text" = "Welcome";
+
+/* Class = "UILabel"; text = "John"; ObjectID = "vw5-nE-JMx"; */
+"vw5-nE-JMx.text" = "John";
+
+/* Class = "UILabel"; text = "Version 1.0"; ObjectID = "wX2-z9-fHY"; */
+"wX2-z9-fHY.text" = "Version 1.0";
+
+/* Class = "UILabel"; text = "Raise Planned Work"; ObjectID = "xeY-rP-BvK"; */
+"xeY-rP-BvK.text" = "Raise Planned Work";
+
+/* Class = "UILabel"; text = "ZZZZ FR TEST"; ObjectID = "yUW-T5-pIt"; */
+"yUW-T5-pIt.text" = "ZZZZ FR TEST";

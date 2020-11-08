@@ -1,0 +1,231 @@
+
+/* Class = "UILabel"; text = "Operational Categorization Tier 1"; ObjectID = "0EH-Qm-2mD"; */
+"0EH-Qm-2mD.text" = "Operational Categorization Tier 1";
+
+/* Class = "UILabel"; text = "Product Categorization Tier 2"; ObjectID = "1HM-3Z-znA"; */
+"1HM-3Z-znA.text" = "Product Categorization Tier 2";
+
+/* Class = "UILabel"; text = "Template"; ObjectID = "3kU-9H-Mie"; */
+"3kU-9H-Mie.text" = "Template";
+
+/* Class = "UILabel"; text = "Backout Start"; ObjectID = "6EE-43-en3"; */
+"6EE-43-en3.text" = "Backout Start";
+
+/* Class = "UILabel"; text = "Template"; ObjectID = "6pI-dg-VbZ"; */
+"6pI-dg-VbZ.text" = "Template";
+
+/* Class = "UILabel"; text = "Operational Categorization Tier 3"; ObjectID = "8PP-zB-sWp"; */
+"8PP-zB-sWp.text" = "Operational Categorization Tier 3";
+
+/* Class = "UIButton"; normalTitle = "Tap to set Service Location"; ObjectID = "8hl-ar-RTH"; */
+"8hl-ar-RTH.normalTitle" = "Tap to set Service Location";
+
+/* Class = "UILabel"; text = "Requestor Email ID:"; ObjectID = "8nE-1x-X5f"; */
+"8nE-1x-X5f.text" = "Requestor Email ID:";
+
+/* Class = "UILabel"; text = "Location Details Tier 2"; ObjectID = "AE3-c4-jU9"; */
+"AE3-c4-jU9.text" = "Location Details Tier 2";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "AFb-UL-bYm"; */
+"AFb-UL-bYm.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Planned Start"; ObjectID = "B8B-E3-gFM"; */
+"B8B-E3-gFM.text" = "Planned Start";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "BRM-AL-pBr"; */
+"BRM-AL-pBr.text" = "Category";
+
+/* Class = "UILabel"; text = "Raise Ticket"; ObjectID = "EJP-uS-AW4"; */
+"EJP-uS-AW4.text" = "Raise Ticket";
+
+/* Class = "UILabel"; text = "Area"; ObjectID = "EMj-AM-FPN"; */
+"EMj-AM-FPN.text" = "Area";
+
+/* Class = "UITextField"; placeholder = "Please select"; ObjectID = "EN8-Tp-lLC"; */
+"EN8-Tp-lLC.placeholder" = "Please select";
+
+/* Class = "UITextField"; placeholder = "Please Select"; ObjectID = "Et9-Es-O33"; */
+"Et9-Es-O33.placeholder" = "Please Select";
+
+/* Class = "UILabel"; text = "Product Categorization Tier 1"; ObjectID = "FhA-Yc-eWb"; */
+"FhA-Yc-eWb.text" = "Product Categorization Tier 1";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "Fn3-Ph-gAT"; */
+"Fn3-Ph-gAT.normalTitle" = "SUBMIT";
+
+/* Class = "UIButton"; normalTitle = "Previous"; ObjectID = "H15-Tk-A71"; */
+"H15-Tk-A71.normalTitle" = "Previous";
+
+/* Class = "UILabel"; text = "Site Address"; ObjectID = "J2F-SY-37o"; */
+"J2F-SY-37o.text" = "Site Address";
+
+/* Class = "UILabel"; text = "Location Details Tier 1"; ObjectID = "JhB-vs-jW1"; */
+"JhB-vs-jW1.text" = "Location Details Tier 1";
+
+/* Class = "UILabel"; text = "Implementer Mobile:"; ObjectID = "MEv-Pn-wnP"; */
+"MEv-Pn-wnP.text" = "Implementer Mobile:";
+
+/* Class = "UILabel"; text = "Site Address:"; ObjectID = "Mp4-L6-wDR"; */
+"Mp4-L6-wDR.text" = "Site Address:";
+
+/* Class = "UILabel"; text = "Implementer Email ID"; ObjectID = "NOb-YB-atw"; */
+"NOb-YB-atw.text" = "Implementer Email ID";
+
+/* Class = "UILabel"; text = "Raise Ticket"; ObjectID = "NVJ-qN-3KU"; */
+"NVJ-qN-3KU.text" = "Raise Ticket";
+
+/* Class = "UILabel"; text = "Standard RefNo. from Change Catalogue"; ObjectID = "OBw-6J-ele"; */
+"OBw-6J-ele.text" = "Standard RefNo. from Change Catalogue";
+
+/* Class = "UILabel"; text = "Choose Category"; ObjectID = "OpU-3U-cAA"; */
+"OpU-3U-cAA.text" = "Choose Category";
+
+/* Class = "UILabel"; text = "Planned Start"; ObjectID = "P6t-vg-Sl8"; */
+"P6t-vg-Sl8.text" = "Planned Start";
+
+/* Class = "UILabel"; text = "Order No."; ObjectID = "Qtz-ty-fWG"; */
+"Qtz-ty-fWG.text" = "Order No.";
+
+/* Class = "UILabel"; text = "Backout Start"; ObjectID = "R2R-kT-Z9l"; */
+"R2R-kT-Z9l.text" = "Backout Start";
+
+/* Class = "UILabel"; text = "Change Description"; ObjectID = "Sg4-ea-wOg"; */
+"Sg4-ea-wOg.text" = "Change Description";
+
+/* Class = "UITextField"; placeholder = "Please select"; ObjectID = "TFm-wf-5zx"; */
+"TFm-wf-5zx.placeholder" = "Please select";
+
+/* Class = "UITextField"; placeholder = "Please select"; ObjectID = "TgF-xp-zff"; */
+"TgF-xp-zff.placeholder" = "Please select";
+
+/* Class = "UITextField"; placeholder = "Please select"; ObjectID = "UXN-Xq-tFf"; */
+"UXN-Xq-tFf.placeholder" = "Please select";
+
+/* Class = "UILabel"; text = "Location Details Tier 1"; ObjectID = "UkD-xa-uiH"; */
+"UkD-xa-uiH.text" = "Location Details Tier 1";
+
+/* Class = "UITextField"; placeholder = "Please select"; ObjectID = "Unw-0C-3Z2"; */
+"Unw-0C-3Z2.placeholder" = "Please select";
+
+/* Class = "UILabel"; text = "Planned End"; ObjectID = "VTW-kS-qQF"; */
+"VTW-kS-qQF.text" = "Planned End";
+
+/* Class = "UILabel"; text = "Operational Categorization Tier 2"; ObjectID = "VZD-Ic-W5J"; */
+"VZD-Ic-W5J.text" = "Operational Categorization Tier 2";
+
+/* Class = "UILabel"; text = "Configuration ID (USE \" \" for multiple CI_ID)"; ObjectID = "XTE-pl-5Cz"; */
+"XTE-pl-5Cz.text" = "Configuration ID (USE \" \" for multiple CI_ID)";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "Xyh-aD-ozy"; */
+"Xyh-aD-ozy.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Implementer Email ID:"; ObjectID = "YOg-nx-K1W"; */
+"YOg-nx-K1W.text" = "Implementer Email ID:";
+
+/* Class = "UITextField"; placeholder = "Site Address as mentioned in XNG"; ObjectID = "Yfd-IK-e33"; */
+"Yfd-IK-e33.placeholder" = "Site Address as mentioned in XNG";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "aAj-HH-xmy"; */
+"aAj-HH-xmy.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Configuration ID Type"; ObjectID = "ahc-Di-CzN"; */
+"ahc-Di-CzN.text" = "Configuration ID Type";
+
+/* Class = "UILabel"; text = "Product Categorization Tier 3"; ObjectID = "beU-VW-mUd"; */
+"beU-VW-mUd.text" = "Product Categorization Tier 3";
+
+/* Class = "UILabel"; text = "Plan Work Preview"; ObjectID = "c2a-0e-CXf"; */
+"c2a-0e-CXf.text" = "Plan Work Preview";
+
+/* Class = "UITextField"; placeholder = "Please select"; ObjectID = "csq-xN-p01"; */
+"csq-xN-p01.placeholder" = "Please select";
+
+/* Class = "UILabel"; text = "Order No."; ObjectID = "dbH-E7-tOf"; */
+"dbH-E7-tOf.text" = "Order No.";
+
+/* Class = "UITextField"; placeholder = "Please select"; ObjectID = "fYV-qd-Jt0"; */
+"fYV-qd-Jt0.placeholder" = "Please select";
+
+/* Class = "UILabel"; text = "Operational Categorization Tier 3"; ObjectID = "hQQ-6j-gzP"; */
+"hQQ-6j-gzP.text" = "Operational Categorization Tier 3";
+
+/* Class = "UILabel"; text = "Loading Map. Please wait...."; ObjectID = "heE-vr-ZCg"; */
+"heE-vr-ZCg.text" = "Loading Map. Please wait....";
+
+/* Class = "UILabel"; text = "Standard RefNo. from Change Catalogue"; ObjectID = "iJ7-ap-VR7"; */
+"iJ7-ap-VR7.text" = "Standard RefNo. from Change Catalogue";
+
+/* Class = "UITextField"; placeholder = "Please Select"; ObjectID = "iqL-ZP-MJz"; */
+"iqL-ZP-MJz.placeholder" = "Please Select";
+
+/* Class = "UILabel"; text = "Location Details Tier 2"; ObjectID = "jC5-Zt-gVx"; */
+"jC5-Zt-gVx.text" = "Location Details Tier 2";
+
+/* Class = "UITextField"; placeholder = "Please select"; ObjectID = "k3g-jF-rgW"; */
+"k3g-jF-rgW.placeholder" = "Please select";
+
+/* Class = "UILabel"; text = "Asia"; ObjectID = "l52-3S-gdF"; */
+"l52-3S-gdF.text" = "Asia";
+
+/* Class = "UILabel"; text = "Pick Service Location"; ObjectID = "lTd-Ab-jUs"; */
+"lTd-Ab-jUs.text" = "Pick Service Location";
+
+/* Class = "UILabel"; text = "Configuration ID (USE \" \" for multiple CI_ID)"; ObjectID = "mb8-DQ-7YZ"; */
+"mb8-DQ-7YZ.text" = "Configuration ID (USE \" \" for multiple CI_ID)";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "myu-na-Xd1"; */
+"myu-na-Xd1.normalTitle" = "Confirm";
+
+/* Class = "UILabel"; text = "Product Categorization Tier 1"; ObjectID = "nAd-pX-E8J"; */
+"nAd-pX-E8J.text" = "Product Categorization Tier 1";
+
+/* Class = "UILabel"; text = "Requestor Email ID"; ObjectID = "pAH-7r-41v"; */
+"pAH-7r-41v.text" = "Requestor Email ID";
+
+/* Class = "UILabel"; text = "Implementer Mobile"; ObjectID = "q7S-Ay-hUa"; */
+"q7S-Ay-hUa.text" = "Implementer Mobile";
+
+/* Class = "UITextField"; placeholder = "Please Select"; ObjectID = "qID-KG-k5J"; */
+"qID-KG-k5J.placeholder" = "Please Select";
+
+/* Class = "UILabel"; text = "Operational Categorization Tier 1"; ObjectID = "r0e-en-uN5"; */
+"r0e-en-uN5.text" = "Operational Categorization Tier 1";
+
+/* Class = "UILabel"; text = "Configuration ID Type"; ObjectID = "tDY-hW-vf8"; */
+"tDY-hW-vf8.text" = "Configuration ID Type";
+
+/* Class = "UILabel"; text = "Product Categorization Tier 3"; ObjectID = "tTt-jf-suc"; */
+"tTt-jf-suc.text" = "Product Categorization Tier 3";
+
+/* Class = "UILabel"; text = "Product Categorization Tier 2"; ObjectID = "uYf-2o-D9Q"; */
+"uYf-2o-D9Q.text" = "Product Categorization Tier 2";
+
+/* Class = "UISearchBar"; placeholder = "Search Site Address..."; ObjectID = "umD-QZ-lSa"; */
+"umD-QZ-lSa.placeholder" = "Search Site Address...";
+
+/* Class = "UITextField"; placeholder = "Please select"; ObjectID = "uyS-56-BN5"; */
+"uyS-56-BN5.placeholder" = "Please select";
+
+/* Class = "UILabel"; text = "Area"; ObjectID = "vDt-tR-AHk"; */
+"vDt-tR-AHk.text" = "Area";
+
+/* Class = "UILabel"; text = "Operational Categorization Tier 2"; ObjectID = "wWn-i9-VE5"; */
+"wWn-i9-VE5.text" = "Operational Categorization Tier 2";
+
+/* Class = "UILabel"; text = "Raise Ticket"; ObjectID = "x8h-qp-vTz"; */
+"x8h-qp-vTz.text" = "Raise Ticket";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "xLi-tc-mFT"; */
+"xLi-tc-mFT.normalTitle" = "SUBMIT";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "xWj-fu-79y"; */
+"xWj-fu-79y.normalTitle" = "Done";
+
+/* Class = "UITextField"; placeholder = "Please select"; ObjectID = "xhU-9X-eMF"; */
+"xhU-9X-eMF.placeholder" = "Please select";
+
+/* Class = "UILabel"; text = "Change Description"; ObjectID = "z9y-mU-eLj"; */
+"z9y-mU-eLj.text" = "Change Description";
+
+/* Class = "UILabel"; text = "Planned End"; ObjectID = "zUb-pf-eRj"; */
+"zUb-pf-eRj.text" = "Planned End";
