@@ -24,7 +24,7 @@ public class TestElements  {
 		d.setCapability(MobileCapabilityType.PLATFORM_NAME, "iOS");
 		d.setCapability(MobileCapabilityType.AUTOMATION_NAME, "XCUITest");
 		d.setCapability(MobileCapabilityType.PLATFORM_VERSION, "14.1");
-		d.setCapability(MobileCapabilityType.APP, "/Users/maheshbhakuni/Desktop/Mahesh/eclipse-workplace/iOSTesting/src/main/resources/apps/FieldExpert.app");
+		d.setCapability(MobileCapabilityType.APP, "/Users/maheshbhakuni/Desktop/Mahesh/eclipse-workplace/iOSFieldExpert/src/main/resources/Apps/FieldExpert.app");
 
 		
 		IOSDriver<IOSElement> driver = new IOSDriver<IOSElement>(new URL ("http://127.0.0.1:4723/wd/hub"), d);
@@ -45,19 +45,24 @@ public class TestElements  {
 		System.out.println("now user has clicked on remember me");		 
 
 	System.out.println("checking with selected remember me element" + driver.findElement(By.xpath("//XCUIElementTypeButton[normalize-space(@name)='Remember Me'][@value='1']")).isSelected());
+driver.findElementByName("Done").click(); 
+	
+	System.out.println("checking the text for don't have account :"+driver.findElementByXPath("//XCUIElementTypeButton[contains(@name,'Sign up')]").getText());
 	 
 
-		driver.findElement(By.xpath("//XCUIElementTypeButton[@name='Login']")).click();
- 		 
-String errorMsg= "Invalid ColtOnline User. Use \"username@internal.colt.net\" to login with internal account(s).";
-		String actMsg = driver.findElement(By.xpath("//XCUIElementTypeStaticText[normalize-space(@name)='Invalid ColtOnline User. Use \"username@internal.colt.net\" to login with internal account(s).'][@name='Alert!']")).getText();
- 		Assert.assertEquals(actMsg, errorMsg);
+//		driver.findElement(By.xpath("//XCUIElementTypeButton[@name='Login']")).click();
+// 		 
+//String errorMsg= "Invalid ColtOnline User. Use \"username@internal.colt.net\" to login with internal account(s).";
+//		String actMsg = driver.findElement(By.xpath("//XCUIElementTypeStaticText[normalize-space(@name)='Invalid ColtOnline User. Use \"username@internal.colt.net\" to login with internal account(s).'][@name='Alert!']")).getText();
+// 		Assert.assertEquals(actMsg, errorMsg);
 
 //		WebDriverWait wait = new WebDriverWait(driver,30);
 //		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//XCUIElementTypeButton[@name=\\\" Remember Me\\")));
  
          
-         
+         //Java has AppiumDriver.hideKeyboard().
+
+
 	
 
 

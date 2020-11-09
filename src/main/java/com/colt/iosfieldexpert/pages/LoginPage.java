@@ -67,10 +67,11 @@ public class LoginPage extends IOSBase {
 	@iOSXCUITFindBy (xpath ="//XCUIElementTypeStaticText[@name='Forgot Password?']")
 	private IOSElement forgotPasswordButton;
 
-	@iOSXCUITFindBy (xpath ="//XCUIElementTypeButton[@name='By logging in you agree to the Terms Of Use and to our Privacy and Cookie Policy. You may select to change your browser setting and restrict cookies.']")
+//	@iOSXCUITFindBy (xpath ="//XCUIElementTypeButton[@name='By logging in you agree to the Terms Of Use and to our Privacy and Cookie Policy. You may select to change your browser setting and restrict cookies.']")
+	@iOSXCUITFindBy (xpath ="//XCUIElementTypeButton[contains(@name,'By logging in you agree to the')]")
 	private IOSElement termsOfUsenPrivacy;
 
-	@iOSXCUITFindBy (xpath ="//XCUIElementTypeStaticText[@name=\"Don't have an account? Sign up\"]")
+	@iOSXCUITFindBy (xpath ="//XCUIElementTypeButton[contains(@name,'Sign up')]")
 	private IOSElement signUpLabel;
 	
 	
@@ -207,6 +208,7 @@ public class LoginPage extends IOSBase {
 	public UserAuthenticationPage validLogin(IOSDriver<IOSElement> driver, String username, String password ) {
 		this.getUserIDPlaceHolder().sendKeys(username);
 		this.getPasswordPlaceHolder().sendKeys(password);
+		hideKeyboard();
 		this.getHidePasswordIcon().click();
 		this.getRememberMeButton().click();
 		this.getLogInButton().click();

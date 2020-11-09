@@ -7,7 +7,7 @@
         <methods>
           <include name="setUp"/>
           <include name="validCredsLogin"/>
-          <include name="signUpLabelTest"/>
+          <include name="tearDown"/>
         </methods>
       </class> <!-- com.colt.iosfieldexpert.testcases.LoginPageTest -->
     </classes>

@@ -77,10 +77,21 @@ public class IOSBase {
 		element.sendKeys(value);
 		logger.info("Entered the value :"+value);
 	}
-	
-   public static void getElementText(IOSDriver<IOSElement> driver, WebElement element) {
-	   element.getText();
-	   
-   }
 
+	public static void getElementText(IOSDriver<IOSElement> driver, WebElement element) {
+		element.getText();
+
+	}
+
+	public static void shutDownSimulator() throws IOException {
+		logger.info("Closing the simulator");
+		Runtime.getRuntime().exec("killall Simulator");		
+		logger.info("Simulator is closed successfully");
+
+	}
+
+	public static void hideKeyboard() {
+		logger.info("Now hiding the keyboard");
+		driver.findElementByName("Done").click(); 
+	}
 }

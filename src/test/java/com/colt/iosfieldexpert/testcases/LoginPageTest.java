@@ -1,10 +1,12 @@
 package com.colt.iosfieldexpert.testcases;
 
+import java.io.IOException;
 import java.net.MalformedURLException;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.testng.Assert;
+import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
@@ -113,17 +115,22 @@ public class LoginPageTest extends IOSBase {
 	public void signUpLabelTest() {
 		logger.info("Test case - Sign up label text validation");
 		String signUpLbl = loginPage.checkSignUp();
-		Assert.assertEquals(signUpLbl, "Don't have an account? Sign up");
+		Assert.assertEquals(signUpLbl, "Don't have an account?  Sign up");
 	}
 	
 
 	@Test(priority=12)
 	public void validCredsLogin() throws InterruptedException {
 		logger.info("Test case - Valid user credentials login validation");
-		loginPage.validLogin(driver, "cowltonlinedcp", "Cowlt@1234");
+		loginPage.validLogin(driver, "coltonlinedcp", "Colt@1234");
 		String authTxt = "Biometric Usage Authentication";
 		Assert.assertEquals(userAuthenticationPage.checkBioUsageAuthText(), authTxt);
 
+	}
+	
+	@AfterTest
+	public void tearDown() throws IOException {
+		shutDownSimulator();
 	}
 
 
